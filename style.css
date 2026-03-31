@@ -118,7 +118,7 @@ body {
   margin-top: 20px;
 }
 .hero_inner {
-  background: url(/img/hero-bg.jpg);
+  background: url(img/hero-bg.jpg);
   height: 732px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -189,7 +189,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background: url(./img/about-bg.jpg);
+  background: url(img/about-bg.jpg);
   border-radius: 30px;
   color: #fff;
   padding: 40px;
@@ -282,7 +282,7 @@ body {
 }
 .feedback-card {
   color: #fff;
-  background: url("./img/FEEDBACK.jpg");
+  background: url("img/FEEDBACK.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -372,7 +372,7 @@ body {
 }
 .contact-left {
   width: 50%;
-  background: url("./img/contact.jpg") center/cover no-repeat;
+  background: url("img/contact.jpg") center/cover no-repeat;
   padding: 46px 30px 56px 30px;
   border-radius: 30px;
 }

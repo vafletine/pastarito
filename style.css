@@ -118,7 +118,7 @@ body {
   margin-top: 20px;
 }
 .hero_inner {
-  background: url(img/hero-bg.jpg);
+  background: url('img/hero-bg.jpg');
   height: 732px;
   background-repeat: no-repeat;
   background-size: cover;
